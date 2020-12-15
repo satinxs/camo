@@ -22,10 +22,10 @@
     "query",
     "db"
   ],
-  "homepage": "https://github.com/scottwrobinson/camo",
+  "homepage": "https://github.com/satinxs/camo",
   "repository": {
     "type": "git",
-    "url": "git@github.com:scottwrobinson/camo.git"
+    "url": "git@github.com:satinxs/camo.git"
   },
   "license": "MIT",
   "scripts": {
@@ -39,7 +39,6 @@
     "lodash": "3.9.3"
   },
   "optionalDependencies": {
-    "mongodb": "2.0.42",
     "nedb": "1.8.0"
   },
   "devDependencies": {
